@@ -1,0 +1,253 @@
+
+
+✅ DETAILED PROMPT: Modern Animated Digital Agency Website
+
+Title: Modern Animated Digital Agency Website – Full Prompt
+
+📌 Objective
+
+Create a modern, high-end, animated digital agency website using clean UI, smooth micro-interactions, bold typography, and immersive visuals.
+The website should feel premium, fast, interactive, and technology-driven.
+
+📌 Website Structure
+
+The site must include the following pages:
+
+Home Page
+
+Services Page
+
+About Page
+
+Contact Page
+
+All content must be taken from the content file I provided earlier (sections for Home, Services, About, Contact).
+
+📌 Design Requirements
+1. Overall Style
+
+Modern, clean, agency-style design
+
+Light or dark theme (designer can choose whichever looks best)
+
+Rounded edges, gradients, glassmorphism, or neumorphism allowed
+
+Use bold, large typography for headings
+
+Use a minimal color palette with 1 accent color
+
+Include tech-inspired shapes, floating shapes, gradients, neon elements, or subtle holographic effects
+
+2. Animations
+
+Website should include smooth, subtle, professional animations:
+
+Hero section:
+
+Fade-in text
+
+Smooth background animation or gradient movement
+
+Subtle floating shapes or particles
+
+Scroll animations:
+
+Section fade-up / slide-up animations
+
+Images scale-up on reveal
+
+Icons animate on hover
+
+Page transitions:
+
+Smooth fade / slide transitions
+
+Buttons:
+
+Hover glow, border animation, micro-interaction
+
+Service cards:
+
+Hover lift animation
+
+Icon or shape movement
+
+Portfolio grid (if added):
+
+On hover: blur → highlight → zoom effect
+
+Contact form:
+
+Animated input focus states
+
+Animations must be smooth (ease-in-out, cubic-bezier) and should not feel overwhelming.
+
+📌 Layout Requirements
+Home Page Sections
+
+Hero Section
+
+Large heading
+
+Subheading
+
+2 CTA buttons
+
+Subtle animated background
+
+Show creative visuals or 3D abstract illustration
+
+Why Choose Us
+
+2-column layout
+
+Icons + text
+
+Fade-up animation
+
+Core Services
+
+4–6 service cards
+
+Animated icons
+
+Hover animations
+
+Portfolio Preview (Optional)
+
+3–6 project thumbnails
+
+Hover zoom or overlay animation
+
+Client Reviews
+
+Slider or fade-in cards
+
+Footer
+
+Simple, clean, with social icons
+
+Services Page
+
+Hero banner (small)
+
+Sectioned list of services
+
+Each service must include:
+
+Icon
+
+Title
+
+Description
+
+Bullet points
+
+Smooth scroll animations for each service block
+
+About Page
+
+Agency introduction section
+
+Mission + Vision section
+
+Values section (animated icons or cards)
+
+Process timeline with subtle animations
+
+Contact Page
+
+Clean contact form
+
+Map (optional)
+
+Contact info cards
+
+Submit-button animation
+
+📌 Technical Requirements
+
+You may use ANY modern stack depending on the platform:
+
+If generating code:
+
+HTML5, CSS3, JS
+
+Or React / Next.js / Vue / Svelte
+
+GSAP / Framer Motion for animations
+
+Locomotive Scroll or Lenis for smooth scrolling
+
+Three.js (optional) for animated backgrounds
+
+Modern UI components
+
+If generating for a no-code builder:
+
+Webflow interactions
+
+Smooth page transitions
+
+Lottie animations
+
+Parallax effects
+
+📌 Content
+
+Use the complete content from the provided “Digital Agency – Website Content Draft” for all pages:
+
+Home
+
+Services
+
+About
+
+Contact
+
+Ensure the content is placed exactly in the correct sections and styled for readability and UX.
+
+📌 Deliverables
+
+Please generate:
+
+1. Fully structured website
+
+All pages
+
+All animations
+
+Responsive across devices
+
+2. Clean modern UI
+
+Balanced spacing
+
+Animation timings
+
+Consistent theme
+
+Smooth typography
+
+3. Exportable version
+
+Depending on platform:
+
+Webflow file
+
+HTML/CSS/JS folder
+
+React/Next.js project
+
+Figma design (optional)
+
+📌 Tone & Feel
+
+The final website should feel:
+
+✨ Innovative
+✨ Futuristic
+✨ Clean
+✨ Professional
+✨ High-performance
+✨ Agency-style
